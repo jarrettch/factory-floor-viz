@@ -16,6 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## To-Do
 
 1. Implement logic for parts to move from `queue` => `test area` => `completed`
-2. Implement animation so parts visibly move to the correct area
-3. Clean up CSS
-4. 🤔
+2. Implement logic and interface(modal?) for adding orders to the `queue`
+2. Add animation so parts visibly move to the correct area
+4. Clean up CSS
+5. 🤔
